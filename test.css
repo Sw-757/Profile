@@ -1,0 +1,19 @@
+body{
+  background-color: #999;
+  border-width: 1px solid;
+}
+pre{
+  background-color: #666;
+  border-radius: 20px;
+  border-width: 10px;
+}
+b,h2{
+  color:#000;
+  text-decoration: solid;
+}
+iframe{
+  margin-left: 150px;
+  width: 70%;
+}
+
+
